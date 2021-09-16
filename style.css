@@ -1,3 +1,11 @@
-*{background-color: #FFF8DC}
-.cap{color:blue}
-li{list-style-type:square}
+body{
+  background-color: #EAF6F6;
+}
+hr{
+  border-style: dotted none none;
+  border-color:grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1, h3{color:#66BFBF}
